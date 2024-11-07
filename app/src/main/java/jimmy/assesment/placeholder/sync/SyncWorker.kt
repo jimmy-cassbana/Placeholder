@@ -1,4 +1,4 @@
-package jimmy.assesment.sync
+package jimmy.assesment.placeholder.sync
 
 import android.content.Context
 import androidx.hilt.work.HiltWorker

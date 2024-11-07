@@ -9,7 +9,7 @@ import androidx.work.NetworkType
 import androidx.work.OneTimeWorkRequestBuilder
 import androidx.work.WorkManager
 import dagger.hilt.android.HiltAndroidApp
-import jimmy.assesment.sync.SyncWorker
+import jimmy.assesment.placeholder.sync.SyncWorker
 
 @HiltAndroidApp
 class App : Application() {
